@@ -1,5 +1,7 @@
-## Hi! I'm Kodi 👋
----
+# Hi! I'm Kodi 👋
+I'm a Web Developer based in Chirstchurch, New Zealand. I have a strong passion for ensuring that the web is inclusive for everyone, particularly interested in web accessibility and disability inclusion. I have experience using React, JavaScript, TypeScript, and SQLite(Knex.js). 
+
+## About Me! 🌱
 
 <!--
 **faelyn-jpg/faelyn-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
