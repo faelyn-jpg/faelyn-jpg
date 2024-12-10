@@ -10,9 +10,10 @@ I'm a Web Developer based in Chirstchurch, New Zealand. I have a strong passion 
 * Frontend: React, TypeScript, Tailwind CSS, Phaser3
 * Backend: Node.js, Express, Knex, SQLite3
 * Tools: Git, GitHub, Vite, ESLint, Prettier, Vitest
-## Currently working on =>
+## Currently working on => {
 * "insert next thing im working on w the wiki here" 
 * "next thing im working on for mycelium here" 
+## }
 ## 📬  Let's Connect!
 [LinkedIn](https://www.linkedin.com/in/kodi-dunn-633ba3340/ "Kodi's LinkedIn")
 <!--
