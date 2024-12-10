@@ -4,7 +4,8 @@ I'm a Web Developer based in Chirstchurch, New Zealand. I have a strong passion 
 ## 🌱 About Me! 
 
 ## 💡 Projects
-- [MyCelium](https://my-celium.devacademy.nz/ "MyCelium") is a 
+[MyCelium](https://my-celium.devacademy.nz/ "MyCelium") is a game where you grow mushrooms and sell them on the market. You grow your mushrooms from spores using its preferred food, moisture, and time. Once it’s grown you can harvest it for caps and spores which you can sell on the mushroom market, and you can use your spores to grow new mushrooms!
+
 ## Tech Stack
 * Frontend: React, TypeScript, Tailwind CSS, Phaser3
 * Backend: Node.js, Express, Knex, SQLite3
