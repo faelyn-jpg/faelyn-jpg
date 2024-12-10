@@ -2,6 +2,8 @@
 I'm a Web Developer based in Chirstchurch, New Zealand. I have a strong passion for ensuring that the web is inclusive for everyone, particularly interested in web accessibility and disability inclusion. I have experience using React, JavaScript, TypeScript, and SQLite(Knex.js). 
 
 ## 🌱 About Me! 
+I've recently completed my education at Dev Academy Aotearoa, where I've expanded my skillset in web technolgies and group collaboration. I'm driven to combine my interest in disability inclusion and web development to create functional websites that anyone, regardless of their abilities, are able to engage with. 
+Beyond coding, I’m an artist, and I use this creativity in my web development work. The combination of technical skills and artistic vision allows me to craft not only functional, but visually engaging and user-friendly websites.
 
 ## 💡 Projects
 [MyCelium](https://my-celium.devacademy.nz/ "MyCelium") is a game where you grow mushrooms and sell them on the market. You grow your mushrooms from spores using its preferred food, moisture, and time. Once it’s grown you can harvest it for caps and spores which you can sell on the mushroom market, and you can use your spores to grow new mushrooms!
@@ -13,7 +15,7 @@ I'm a Web Developer based in Chirstchurch, New Zealand. I have a strong passion 
 ## Currently working on => {
 * "insert next thing im working on w the wiki here" 
 * "next thing im working on for mycelium here" 
-## }
+### }
 ## 📬  Let's Connect!
 [LinkedIn](https://www.linkedin.com/in/kodi-dunn-633ba3340/ "Kodi's LinkedIn")
 <!--
