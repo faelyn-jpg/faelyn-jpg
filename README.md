@@ -4,11 +4,11 @@ I'm a Web Developer based in Chirstchurch, New Zealand. I have a strong passion 
 ## 🌱 About Me! 
 
 ## 💡 Projects
-
+- [MyCelium](https://my-celium.devacademy.nz/ "MyCelium") is a 
 ## Tech Stack
-*Frontend: React, TypeScript, Tailwind CSS, Phaser3
-*Backend: Node.js, Express, Knex, SQLite3
-*Tools: Git, GitHub, Vite, ESLint, Prettier, Vitest
+* Frontend: React, TypeScript, Tailwind CSS, Phaser3
+* Backend: Node.js, Express, Knex, SQLite3
+* Tools: Git, GitHub, Vite, ESLint, Prettier, Vitest
 ## Currently working on =>
 * "insert next thing im working on w the wiki here" 
 * "next thing im working on for mycelium here" 
