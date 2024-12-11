@@ -8,7 +8,7 @@ Beyond coding, I’m an artist, and I use this creativity in my web development 
 ## 💡 Projects
 [MyCelium](https://my-celium.devacademy.nz/ "MyCelium") is a game where you grow mushrooms and sell them on the market. You grow your mushrooms from spores using its preferred food, moisture, and time. Once it’s grown you can harvest it for caps and spores which you can sell on the mushroom market, and you can use your spores to grow new mushrooms!
 
-Trivia Quiz is a simple quiz website using Trivia API from Open Trivia Database. You are able to select the difficulty and the theme of the questions. It was creating as a group project for Dev Academy Aotearoa. 
+Trivia Quiz is a simple quiz website using Trivia API from Open Trivia Database. You are able to select the difficulty and the theme of the questions. It was created as a group project for Dev Academy Aotearoa. 
 
 ## Tech Stack
 * Frontend: React, TypeScript, Tailwind CSS, Phaser3
