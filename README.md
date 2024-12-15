@@ -3,6 +3,7 @@ I'm a Developer based in Chirstchurch, New Zealand. I have a strong passion for 
 
 ## 🌱 About Me! 
 I've recently completed my education at Dev Academy Aotearoa, where I've expanded my skills in web technologies and group collaboration. I'm driven to combine my interest in disability inclusion and web development to create functional websites that anyone, regardless of their abilities, are able to engage with. I've discovered that I have a passion for testing, I enjoy the exploratory nature of hunting down bugs and I'm currently learning the best practices for automated testing to enhance the development process. 
+
 Beyond coding, I’m an artist, and I use this creativity in my development work. The combination of technical skills and artistic vision allows me to craft not only functional, but visually engaging and user-friendly websites.
 
 ## 💡 Projects
