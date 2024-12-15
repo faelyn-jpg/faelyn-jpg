@@ -1,9 +1,9 @@
 # Hi! I'm Kodi 👋
-I'm a Web Developer based in Chirstchurch, New Zealand. I have a strong passion for ensuring that the web is inclusive for everyone, particularly interested in web accessibility and disability inclusion. I have experience using React, JavaScript, TypeScript, and SQLite(Knex.js). 
+I'm a Developer based in Chirstchurch, New Zealand. I have a strong passion for ensuring that the web is inclusive for everyone, particularly interested in web accessibility and disability inclusion. I have experience using React, JavaScript, TypeScript, and SQLite(Knex.js), and testing libraries such as Vitest, Jest, Playwright, and Supertest.
 
 ## 🌱 About Me! 
-I've recently completed my education at Dev Academy Aotearoa, where I've expanded my skills in web technologies and group collaboration. I'm driven to combine my interest in disability inclusion and web development to create functional websites that anyone, regardless of their abilities, are able to engage with. 
-Beyond coding, I’m an artist, and I use this creativity in my web development work. The combination of technical skills and artistic vision allows me to craft not only functional, but visually engaging and user-friendly websites.
+I've recently completed my education at Dev Academy Aotearoa, where I've expanded my skills in web technologies and group collaboration. I'm driven to combine my interest in disability inclusion and web development to create functional websites that anyone, regardless of their abilities, are able to engage with. I've discovered that I have a passion for testing, I enjoy the exploratory nature of hunting down bugs and I'm currently learning the best practices for automated testing to enhance the development process. 
+Beyond coding, I’m an artist, and I use this creativity in my development work. The combination of technical skills and artistic vision allows me to craft not only functional, but visually engaging and user-friendly websites.
 
 ## 💡 Projects
 [MyCelium](https://my-celium.devacademy.nz/ "MyCelium") is a game where you grow mushrooms and sell them on the market. You grow your mushrooms from spores using its preferred food, moisture, and time. Once it’s grown you can harvest it for caps and spores which you can sell on the mushroom market, and you can use your spores to grow new mushrooms!
@@ -13,10 +13,10 @@ Trivia Quiz is a simple quiz website using Trivia API from Open Trivia Database.
 ## Tech Stack
 * Frontend: React, TypeScript, Tailwind CSS, Phaser3
 * Backend: Node.js, Express, Knex, SQLite3
-* Tools: Git, GitHub, Vite, ESLint, Prettier, Vitest
+* Tools: Git, GitHub, Vite / Vitest, ESLint, Prettier, Playwright, Supertest
 ## Currently working on => {
-* Creating a Articles page that refrences the article content table.
-* Discuss game rework plan.
+* Cat God Ranch Wiki : Creating a Articles page that refrences the article content table.
+* MyCelium : Discuss game rework plan.
 ### }
 ## 📬  Let's Connect!
 [LinkedIn](https://www.linkedin.com/in/kodi-dunn-633ba3340/ "Kodi's LinkedIn")
