@@ -7,7 +7,9 @@ I've recently completed my education at Dev Academy Aotearoa, where I've expande
 Beyond coding, I’m an artist, and I use this creativity in my development work. The combination of technical skills and artistic vision allows me to craft not only functional, but visually engaging and user-friendly websites.
 
 ## 💡 Projects
-[MyCelium](https://my-celium.devacademy.nz/ "MyCelium") is a game where you grow mushrooms and sell them on the market. You grow your mushrooms from spores using its preferred food, moisture, and time. Once it’s grown you can harvest it for caps and spores which you can sell on the mushroom market, and you can use your spores to grow new mushrooms!
+MyCelium is a game where you grow mushrooms and sell them on the market. You grow your mushrooms from spores using its preferred food, moisture, and time. Once it’s grown you can harvest it for caps and spores which you can sell on the mushroom market, and you can use your spores to grow new mushrooms!
+
+Link is expired, will update if possible.
 
 Trivia Quiz is a simple quiz website using Trivia API from Open Trivia Database. You are able to select the difficulty and the theme of the questions. It was created as a group project for Dev Academy Aotearoa. 
 
@@ -17,7 +19,7 @@ Trivia Quiz is a simple quiz website using Trivia API from Open Trivia Database.
 * Tools: Git, GitHub, Vite / Vitest, ESLint, Prettier, Playwright, Supertest
 ## Currently working on => {
 * Cat God Ranch Wiki : Creating a Articles page that refrences the article content table.
-* MyCelium : Discuss game rework plan.
+* Cokoha : Volunteering for React Native mobile app for community sharing.
 ### }
 ## 📬  Let's Connect!
 [LinkedIn](https://www.linkedin.com/in/kodi-dunn-633ba3340/ "Kodi's LinkedIn")
